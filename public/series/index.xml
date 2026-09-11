@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Blowfish</title>
-    <link>http://localhost:1313/series/</link>
-    <description>Recent content in Series on Blowfish</description>
+    <title>Series on hcrockstar</title>
+    <link>https://hcrockstar.com/series/</link>
+    <description>Recent content in Series on hcrockstar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
-    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
-    <copyright>© 2026 Blowfish</copyright>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>henrycrodriguez@hcrockstar.com (hcrockstar)</managingEditor>
+    <webMaster>henrycrodriguez@hcrockstar.com (hcrockstar)</webMaster>
+    <copyright>© 2026 hcrockstar</copyright>
+    <atom:link href="https://hcrockstar.com/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
